@@ -1,5 +1,9 @@
 # 💡 My First Experience with Perseverance (Game Development)
 
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1OXh0jTaK8bU8VMUrXPoT9fvx3V5DuXnb/view)
+
+👉 [raw-story.md](./raw-story.md)
+
 ## 📘 Introduction
 
 Back when I first got into programming and learned **Java**, I was excited — but something felt off. I could write code, but I didn’t feel *accomplished*. I knew the syntax, but had nothing tangible to show for it. It was just lines on a screen that only I (and my laptop) could understand.
