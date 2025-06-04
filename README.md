@@ -4,6 +4,8 @@
 
 👉 [raw-story.md](./raw-story.md)
 
+👉 [Download APK](https://pt.mob4gamers.com/easy-roll-mini/com.sssproduction.naughtysofts.games.erl)
+
 ## 📘 Introduction
 
 Back when I first got into programming and learned **Java**, I was excited — but something felt off. I could write code, but I didn’t feel *accomplished*. I knew the syntax, but had nothing tangible to show for it. It was just lines on a screen that only I (and my laptop) could understand.
